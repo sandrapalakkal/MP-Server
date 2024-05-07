@@ -1,0 +1,98 @@
+{
+  "allVideos": [
+    {
+      "id": "1997",
+      "caption": "Avesham Trailer",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BYTA0YTgxNWUtYjllOS00MWNhLTk3MTQtYjQ1N2RmNTZjYzI2XkEyXkFqcGdeQXVyMTQ3Mzk2MDg4._V1_FMjpg_UX1000_.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw"
+    },
+    {
+      "id": "b800",
+      "caption": "Pavi Caretaker - Trailer",
+      "imgURL": "https://m.media-amazon.com/images/M/MV5BNzkwMzEzY2UtNTdkOS00YTIyLTgwNWEtZGRlZmMxYWFhMTM3XkEyXkFqcGdeQXVyMTc4MDI4MjE2._V1_FMjpg_UX1000_.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/tAPT0fo57Ok"
+    },
+    {
+      "id": "122f",
+      "caption": "Leo Trailer",
+      "imgURL": "https://upload.wikimedia.org/wikipedia/en/7/75/Leo_%282023_Indian_film%29.jpg",
+      "youtubeURL": "https://www.youtube.com/embed/Po3jStA673E"
+    }
+  ],
+  "history": [
+    {
+      "id": "a8bc",
+      "caption": "Avesham Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/L0yEMl8PXnw",
+      "timeStamp": "5/3/2024, 10:28:08 AM GMT+5:30"
+    },
+    {
+      "id": "4517",
+      "caption": "Aadujeevitham -The Goat Life Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/ZSWNXRA3oZM",
+      "timeStamp": "5/3/2024, 10:58:50 AM GMT+5:30"
+    },
+    {
+      "id": "9c8f",
+      "caption": "Aadujeevitham -The Goat Life Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/ZSWNXRA3oZM",
+      "timeStamp": "5/6/2024, 9:18:33 AM GMT+5:30"
+    },
+    {
+      "id": "e92c",
+      "caption": "Pavi Caretaker - Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/tAPT0fo57Ok",
+      "timeStamp": "5/6/2024, 9:18:58 AM GMT+5:30"
+    },
+    {
+      "id": "4b72",
+      "caption": "Pavi Caretaker - Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/tAPT0fo57Ok",
+      "timeStamp": "5/6/2024, 10:32:44 AM GMT+5:30"
+    },
+    {
+      "caption": "Aadujeevitham -The Goat Life Trailer",
+      "youtubeURL": "https://www.youtube.com/embed/ZSWNXRA3oZM",
+      "timeStamp": "5/7/2024, 12:58:41 AM GMT+5:30",
+      "id": "Fbtvp3r"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "68b6",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "0744",
+          "caption": "Aadujeevitham -The Goat Life Trailer",
+          "imgURL": "https://img.republicworld.com/rimages/aadujeevitham-was-announced_b_0511230318-1710255401316.webp",
+          "youtubeURL": "https://www.youtube.com/embed/ZSWNXRA3oZM"
+        }
+      ]
+    },
+    {
+      "id": "3f2a",
+      "categoryName": "Tutorials",
+      "allVideos": [
+        {
+          "id": "403d",
+          "caption": "React JS Tutorial",
+          "imgURL": "https://static.javatpoint.com/tutorial/reactjs/images/reactjs-tutorial.png",
+          "youtubeURL": "https://www.youtube.com/embed/w7ejDZ8SWv8"
+        }
+      ]
+    },
+    {
+      "id": "24cf",
+      "categoryName": "Movies",
+      "allVideos": [
+        {
+          "id": "5db3",
+          "caption": "Varshangalkku Shesham",
+          "imgURL": "https://th-i.thgim.com/public/entertainment/movies/g1e776/article67659651.ece/alternates/FREE_1200/POSTER-VS-6PM.JPG",
+          "youtubeURL": "https://www.youtube.com/embed/50GJ7D_00NA"
+        }
+      ]
+    }
+  ]
+}
